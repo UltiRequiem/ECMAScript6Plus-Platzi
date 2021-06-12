@@ -1,0 +1,33 @@
+{
+  "name": "ecmascript6plus-platzi",
+  "version": "1.0.0",
+  "description": "Platzi Course.",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UltiRequiem/ECMAScript6Plus-Platzi.git"
+  },
+  "keywords": [
+    "Platzi"
+  ],
+  "author": "UltiRequiem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UltiRequiem/ECMAScript6Plus-Platzi/issues"
+  },
+  "homepage": "https://github.com/UltiRequiem/ECMAScript6Plus-Platzi#readme",
+  "devDependencies": {
+    "eslint": "^7.28.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^2.3.1",
+    "prettier-eslint": "^12.0.0"
+  }
+}
