@@ -4,6 +4,6 @@
 
 [UltiRequiem/js-fundamentals-2018](https://github.com/UltiRequiem/js-fundamentals-2018)
 
-### Licensia
+### LICENSE
 
 [MIT](./LICENSE)

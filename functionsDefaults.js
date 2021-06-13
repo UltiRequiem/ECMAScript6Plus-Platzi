@@ -7,8 +7,9 @@
 // }
 
 // ECMAScript 6+
-const newFunctionTwo = (name = 'Zero', age = 14, country = 'Perú') =>
+const newFunctionTwo = (name = 'Zero', age = 14, country = 'Perú') => {
   console.log(name, age, country);
+};
 
 newFunctionTwo();
 newFunctionTwo('UltiRequiem', 28, 'MX');
