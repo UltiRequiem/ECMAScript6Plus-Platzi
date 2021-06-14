@@ -8,7 +8,7 @@ function* helloUniverse(condition) {
   }
 }
 
-const generatorHello = helloUniverse(true);
+const generatorHello = helloUniverse(2 > 1);
 console.log(generatorHello.next().value);
 console.log(generatorHello.next().value);
 // Undefined: console.log(generatorHello.next().value)
