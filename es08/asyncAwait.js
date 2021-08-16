@@ -10,4 +10,4 @@ const hiAsyncUniverse = async () => {
   console.log(hello);
 };
 
-hiAsyncUniverse()
+hiAsyncUniverse();

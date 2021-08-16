@@ -1,12 +1,12 @@
 // Different Scope
 
 {
-  var globalVar = "Globar Var";
+  var globalVar = 'Globar Var';
 }
 
 {
-  let globalLet = "Global Let";
-  const globalConst = "Global Const";
+  let globalLet = 'Global Let';
+  const globalConst = 'Global Const';
   console.log(globalLet);
   console.log(globalConst);
 }

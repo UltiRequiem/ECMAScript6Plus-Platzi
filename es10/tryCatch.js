@@ -1,5 +1,5 @@
 try {
   console.log(aNotDefinedValue);
-} catch(error) {
+} catch (error) {
   console.log(error);
 }

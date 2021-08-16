@@ -3,4 +3,4 @@ const ENTRIES = [
   ['age', 14],
 ];
 
-console.log(Object.fromEntries(ENTRIES))
+console.log(Object.fromEntries(ENTRIES));
