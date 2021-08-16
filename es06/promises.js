@@ -1,12 +1,12 @@
-const hiPromise = () =>
+const hiPromise = (condition) =>
   new Promise((resolve, reject) => {
-    if (true) {
+    if (condition) {
       resolve('Yeah!');
     } else {
       reject('Oops...');
     }
   });
 
-hiPromise()
+hiPromise(true)
   .then((response) => console.log(response))
   .catch((error) => console.log(error));
